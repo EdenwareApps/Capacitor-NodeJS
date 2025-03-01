@@ -1,5 +1,11 @@
 # 📱 Capacitor NodeJS-Integration
 
+---
+
+**This fork has been adjusted to work with Capacitor 6.**
+
+---
+
 :arrow_right: A full-fledged [Node.js](https://nodejs.org/) runtime for [Capacitor](https://capacitorjs.com) apps.
 
 > [!NOTE]  
