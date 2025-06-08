@@ -17,7 +17,7 @@ public class NodeProcess {
     private native void nativeSend(String channelName, String message);
 
     /** @noinspection unused*/
-    private void nativeReceive(String channelName, String message) {
+    public void nativeReceive(String channelName, String message) {
         receiveCallback.receive(channelName, message);
     }
 
